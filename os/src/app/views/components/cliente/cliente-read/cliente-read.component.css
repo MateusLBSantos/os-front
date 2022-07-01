@@ -1,0 +1,39 @@
+.create {
+    display: inline-flex;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.create h1 {  
+  font-size: 2rem;
+  margin-top: 1rem;
+}
+
+.create button {
+  position: fixed;
+  width: auto;
+  margin: 1rem auto;
+  justify-content: center;
+  right: 8rem;
+
+}
+
+.container {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table {
+    width: 100%;
+  }
+
+  #edit{
+    color: rgb(77, 120, 201);
+  }
+  
+  #delete {
+    color: rgb(228, 74, 74);
+    padding-left: .8rem;
+  }

@@ -1,0 +1,58 @@
+.create {
+    display: inline-flex;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.create h1 {  
+  font-size: 2rem;
+  margin-top: 1rem;
+}
+
+.create button {
+  position: fixed;
+  width: auto;
+  margin: 1rem auto;
+  justify-content: center;
+  right: 8rem;
+
+}
+
+.container {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+table {
+    width: 100%;
+}
+
+th {
+  font-size: 18px;
+}
+
+#edit{
+  color: rgb(77, 120, 201);
+}
+
+#delete {
+  color: rgb(228, 74, 74);
+  padding-left: .8rem;
+}
+
+td.baixa {
+  color: rgb(45, 238, 45);
+  font-weight: bold;
+}
+
+td.media {
+  color: yellow;
+  font-weight: bold;
+}
+
+td.alta {
+  color: rgb(223, 73, 73);
+  font-weight: bold;
+}
